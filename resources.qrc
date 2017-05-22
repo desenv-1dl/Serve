@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/plugins/FmeServer" >
+     <file>search.png</file>     
+     <file>routine1.png</file>     
+     <file>routine2.png</file>     
+     <file>server.png</file>    
+  </qresource>
+</RCC>
